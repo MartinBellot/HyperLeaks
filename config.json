@@ -1,0 +1,45 @@
+{
+    "token": "MTEwNDUyNjA1MDAzOTQzOTQwMA.G55ubs.r3zPGuOzUUA-ykoLSXwYXdww7J4nejm3HGCZG4",
+    "prefix": "!",
+    "bot_name": "HyperLeaks",
+    "version": 0.8,
+    "suburl": {
+        "https://discord.com/api/webhooks/1104804766707626057/Olp1IfNo77T510U1lsoeVxYZmd-sYR4kfUt4oJ6Ilu8oCCL6nbHYh67KvVk_KDUiKCHz": {
+            "url": "https://www.vinted.fr/catalog?catalog[]=257&brand_id[]=52759&currency=EUR&status_ids[]=6&status_ids[]=1&status_ids[]=2&search_text=polar%20big%20boy",
+            "salon": "polar-bigboy"
+        },
+        "https://discord.com/api/webhooks/1104807494259331085/UxRegyBKLTtOFgEyPHmvxpJt8bsGdW_oeZtFBVxvxI56ijDMvsCmYExkmtdAP_Sk5c0Q": {
+            "url": "https://www.vinted.fr/catalog?currency=EUR&status_ids[]=6&status_ids[]=1&status_ids[]=2&search_text=Corteiz&catalog[]=34&brand_id[]=3036449&price_to=100",
+            "salon": "corteiz-pantalon"
+        },
+        "https://discord.com/api/webhooks/1104810102768271542/mHoynDJWdL-ih8v-MJMcf9ofIPBXxrw6dG0adncDrJK2j8_y6a3AnNEWXDbGdA2xgtJ2": {
+            "url": "https://www.vinted.fr/catalog?currency=EUR&status_ids[]=6&status_ids[]=1&status_ids[]=2&search_text=Please%20Paulo%20Stop%20Cappin&catalog[]=82&brand_id[]=5815822&price_to=30",
+            "salon": "ppsc-accessoires"
+        },
+        "https://discord.com/api/webhooks/1104814184631382119/aSpSUSlZj4qLVod4zl725YGV-nmx8GWbLx5rooFR-u0DET78SHqbaI94_9xvbMWXcGsQ": {
+            "url": "https://www.vinted.fr/catalog?search_text=bape%20shark&brand_id[]=4691320&currency=EUR&catalog[]=79&status_ids[]=6&status_ids[]=1&status_ids[]=2&price_to=90",
+            "salon": "bape-pulls"
+        },
+        "https://discord.com/api/webhooks/1104914726217060405/N-K1gssE3N5J-gBbuMwD67HnJ_8LYgFMj1RpktDEIbt6aha57Js7-_agikGMOS7zYtTz": {
+            "url": "https://www.vinted.fr/catalog?search_text=nike&catalog[]=1206&brand_id[]=53&price_to=30&currency=EUR&status_ids[]=6&status_ids[]=1&status_ids[]=2",
+            "salon": "nike"
+        },
+        "https://discord.com/api/webhooks/1104914965778944042/NBbJlOED7yG76oTBMBHMaJu1EZ74iwTQbJmdq-o31Lq6ejKhtcMGMTkoz6Sxzx8aym_j": {
+            "url": "https://www.vinted.fr/catalog?search_text=adidas&catalog[]=1206&price_to=30&currency=EUR&status_ids[]=6&status_ids[]=1&status_ids[]=2&brand_id[]=14",
+            "salon": "adidas"
+        }
+    },
+    "embed-color-text": "YAML",
+    "embed-color": 16777215,
+    "embed-config": {
+        "prix": "oui",
+        "vendeur": "oui",
+        "avis": "oui",
+        "localisation": "oui",
+        "marque": "oui",
+        "taille": "oui",
+        "couleur": "oui",
+        "etat": "oui"
+    },
+    "error_msg": "Erreur, veuillez v\u00e9rifier la syntaxe, sinon contactez un administrateur."
+}

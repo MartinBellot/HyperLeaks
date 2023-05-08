@@ -1,0 +1,49 @@
+{
+    "embeds": [
+        {
+            "title": "Offre Abonné",
+            "color": 16172079,
+            "description": "Accès illimité aux fonctionnalités de recherche de base du bot.\nRESELL parmis une large sélections de marques et d'articles.",
+            "fields": [
+                {
+                    "name": "Prix mensuel",
+                    "value": "10 euros.",
+                    "inline": false
+                }
+            ],
+            "thumbnail": {
+                "url": "https://i.ibb.co/fGs2Fxq/Abonn-3.png"
+            }
+        },
+        {
+            "title": "Offre Abonné +",
+            "description": "Accès à Toutes les fonctionnalités de la formule \"Abonné\".\nPossibilité de réaliser jusqu'à 10 recherches personnalisées.\nPossibilité de créer des alertes pour être notifié en temps réel des nouveaux résultats de recherche.",
+            "fields": [
+                {
+                    "name": "Prix mensuel",
+                    "value": "15 euros.",
+                    "inline": false
+                }
+            ],
+            "thumbnail": {
+                "url": "https://i.ibb.co/sj90044/Abonn-1-1-1.png"
+            },
+            "color": 52084
+        },
+        {
+            "title": "Offre Ultra",
+            "color": 10509236,
+            "description": "Accès à Toutes les fonctionnalités des formules \"Abonné\" et \"Abonné+\".\nPossibilité de sauvegarder jusqu'à 15 recherches personnalisées.\nPossibilité de recevoir les offres en SMS.",
+            "fields": [
+                {
+                    "name": "Prix mensuel",
+                    "value": "25 euros.",
+                    "inline": false
+                }
+            ],
+            "thumbnail": {
+                "url": "https://i.ibb.co/S7Xv8rP/Abonn-2-1.png"
+            }
+        }
+    ]
+}
