@@ -4,22 +4,6 @@
     "bot_name": "HyperLeaks",
     "version": 0.8,
     "suburl": {
-        "https://discord.com/api/webhooks/1104804766707626057/Olp1IfNo77T510U1lsoeVxYZmd-sYR4kfUt4oJ6Ilu8oCCL6nbHYh67KvVk_KDUiKCHz": {
-            "url": "https://www.vinted.fr/catalog?catalog[]=257&brand_id[]=52759&currency=EUR&status_ids[]=6&status_ids[]=1&status_ids[]=2&search_text=polar%20big%20boy",
-            "salon": "polar-bigboy"
-        },
-        "https://discord.com/api/webhooks/1104807494259331085/UxRegyBKLTtOFgEyPHmvxpJt8bsGdW_oeZtFBVxvxI56ijDMvsCmYExkmtdAP_Sk5c0Q": {
-            "url": "https://www.vinted.fr/catalog?currency=EUR&status_ids[]=6&status_ids[]=1&status_ids[]=2&search_text=Corteiz&catalog[]=34&brand_id[]=3036449&price_to=100",
-            "salon": "corteiz-pantalon"
-        },
-        "https://discord.com/api/webhooks/1104810102768271542/mHoynDJWdL-ih8v-MJMcf9ofIPBXxrw6dG0adncDrJK2j8_y6a3AnNEWXDbGdA2xgtJ2": {
-            "url": "https://www.vinted.fr/catalog?currency=EUR&status_ids[]=6&status_ids[]=1&status_ids[]=2&search_text=Please%20Paulo%20Stop%20Cappin&catalog[]=82&brand_id[]=5815822&price_to=30",
-            "salon": "ppsc-accessoires"
-        },
-        "https://discord.com/api/webhooks/1104814184631382119/aSpSUSlZj4qLVod4zl725YGV-nmx8GWbLx5rooFR-u0DET78SHqbaI94_9xvbMWXcGsQ": {
-            "url": "https://www.vinted.fr/catalog?search_text=bape%20shark&brand_id[]=4691320&currency=EUR&catalog[]=79&status_ids[]=6&status_ids[]=1&status_ids[]=2&price_to=90",
-            "salon": "bape-pulls"
-        },
         "https://discord.com/api/webhooks/1104914726217060405/N-K1gssE3N5J-gBbuMwD67HnJ_8LYgFMj1RpktDEIbt6aha57Js7-_agikGMOS7zYtTz": {
             "url": "https://www.vinted.fr/catalog?search_text=nike&catalog[]=1206&brand_id[]=53&price_to=30&currency=EUR&status_ids[]=6&status_ids[]=1&status_ids[]=2",
             "salon": "nike"
@@ -27,6 +11,42 @@
         "https://discord.com/api/webhooks/1104914965778944042/NBbJlOED7yG76oTBMBHMaJu1EZ74iwTQbJmdq-o31Lq6ejKhtcMGMTkoz6Sxzx8aym_j": {
             "url": "https://www.vinted.fr/catalog?search_text=adidas&catalog[]=1206&price_to=30&currency=EUR&status_ids[]=6&status_ids[]=1&status_ids[]=2&brand_id[]=14",
             "salon": "adidas"
+        },
+        "https://discord.com/api/webhooks/1104814184631382119/aSpSUSlZj4qLVod4zl725YGV-nmx8GWbLx5rooFR-u0DET78SHqbaI94_9xvbMWXcGsQ": {
+            "url": "https://www.vinted.fr/catalog?search_text=bape%20shark&brand_id[]=4691320&currency=EUR&catalog[]=79&status_ids[]=6&status_ids[]=1&status_ids[]=2&price_to=90",
+            "salon": "bape-pulls"
+        },
+        "https://discord.com/api/webhooks/1104804766707626057/Olp1IfNo77T510U1lsoeVxYZmd-sYR4kfUt4oJ6Ilu8oCCL6nbHYh67KvVk_KDUiKCHz": {
+            "url": "https://www.vinted.fr/catalog?catalog[]=257&brand_id[]=52759&currency=EUR&status_ids[]=6&status_ids[]=1&status_ids[]=2&search_text=polar%20big%20boy",
+            "salon": "polar-bigboy"
+        },
+        "https://discord.com/api/webhooks/1104807494259331085/UxRegyBKLTtOFgEyPHmvxpJt8bsGdW_oeZtFBVxvxI56ijDMvsCmYExkmtdAP_Sk5c0Q": {
+            "url": "https://www.vinted.fr/catalog?currency=EUR&status_ids[]=6&status_ids[]=1&status_ids[]=2&search_text=Corteiz&catalog[]=34&brand_id[]=3036449&price_to=100",
+            "salon": "corteiz-pantalons"
+        },
+        "https://discord.com/api/webhooks/1104810102768271542/mHoynDJWdL-ih8v-MJMcf9ofIPBXxrw6dG0adncDrJK2j8_y6a3AnNEWXDbGdA2xgtJ2": {
+            "url": "https://www.vinted.fr/catalog?currency=EUR&status_ids[]=6&status_ids[]=1&status_ids[]=2&search_text=Please%20Paulo%20Stop%20Cappin&catalog[]=82&brand_id[]=5815822&price_to=30",
+            "salon": "ppsc-accessoires"
+        },
+        "https://discord.com/api/webhooks/1105191143521656842/1U-XHwJcH5XBe1h9TaCFryfEjMM0BFXmTGISevX6YRAy2juyG-gmIAwJhZk89B1uYUNS": {
+            "url": "https://www.vinted.fr/catalog?search_text=Carhartt&brand_id[]=362&status_ids[]=6&status_ids[]=1&status_ids[]=2&price_to=35&currency=EUR&catalog[]=34",
+            "salon": "carhartt-pantalons"
+        },
+        "https://discord.com/api/webhooks/1105191282718036090/J50KU3AHsFsFaF6cTVnfkAY0sGTbzzmSfdpLzdZN1ufmdKw6jAFUkPne25_my98_v4_p": {
+            "url": "https://www.vinted.fr/catalog?search_text=Carhartt&brand_id[]=362&status_ids[]=6&status_ids[]=1&status_ids[]=2&price_to=35&currency=EUR&catalog[]=1206",
+            "salon": "carhartt-pulls"
+        },
+        "https://discord.com/api/webhooks/1105191766627455068/wy6TYbOMfezy50asdnCaZqks2RI8D_DxuUsH7B2Qzp-eKxS-UaVmoWEKyQL03i_cqK3r": {
+            "url": "https://www.vinted.fr/catalog?search_text=polar%20big%20boy&status_ids[]=6&status_ids[]=1&status_ids[]=2&currency=EUR&catalog[]=34&price_to=70&brand_id[]=52759",
+            "salon": "polar-pantalons"
+        },
+        "https://discord.com/api/webhooks/1105192878696841348/qMNrGo5K2YZWqm92TQ4y1NpcuaFmYXGuQyuLqaicLQhPcw-16NjZhNG71zAoL-kQj6Or": {
+            "url": "https://www.vinted.fr/catalog?search_text=stone%20island&status_ids[]=6&status_ids[]=1&status_ids[]=2&currency=EUR&catalog[]=1206&price_to=75",
+            "salon": "stoneisland-manteaux"
+        },
+        "https://discord.com/api/webhooks/1105192481395581052/9TlWjosDepyKQj_6LU6PZykSg-XcycDG6vM2tgnaeMwCqoN3J0AaC_w8UgtBgDBp5vmT": {
+            "url": "https://www.vinted.fr/catalog?search_text=stussy&status_ids[]=6&status_ids[]=1&status_ids[]=2&currency=EUR&catalog[]=1206&brand_id[]=441&price_to=80",
+            "salon": "stussy-pulls"
         }
     },
     "embed-color-text": "YAML",
