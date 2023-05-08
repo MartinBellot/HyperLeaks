@@ -1,5 +1,5 @@
 ##
-## EPITECH PROJECT, 2023
+## PROJECT, 2023
 ## VINTED SCRAPPER
 ## File description:
 ## vinted
@@ -157,7 +157,7 @@ class moniteur:
                         print(f"{Spy.blanc}[{Spy.vert}{post}{Spy.blanc}] - Nouvel item trouvé !")
                         info = get_info_post(x[str(post)]["url"])
 
-                        data = {"username": "$py",
+                        data = {"username": configs["bot_name"],
                                 "avatar_url": "https://cdn.discordapp.com/avatars/755734583005282334/158a0c81f5a3bd1f283bedd5f817a524.webp?size=1024",
                                 "embeds": [
                                     {
@@ -236,7 +236,7 @@ class moniteur:
                 time.sleep(10)
 
 
-if len(configs["suburl"]) > 10:
+if len(configs["suburl"]) > 20:
     print(
         f"{Spy.blanc}[{Spy.rouge}ERREUR{Spy.blanc}] - Trop de salon veuillez en enlever car le bot se fera rate limit !")
 else:
